@@ -2,18 +2,16 @@
 
 <!--
 **skrlxlihh/skrlxlihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Android Studio
+- 🌱 I'm currently learning Python
+- 👯 I want to collaborate on digital work programs, such as coding, data analysis, Web3, and others.
+- 🤔 I need help expanding my digital skills
+- 📫 How to contact me: Through the link I've provided
+- ⚡ Fun fact: I love being inspired and generating brilliant ideas
+
 
 
 ## 🌐 Socials:
